@@ -17,11 +17,14 @@
   },
   "homepage": "https://github.com/alpaunovski/Secrets---Starting-Code#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
+    "dotenv": "^14.1.0",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "md5": "^2.3.0",
     "mongoose": "^6.0.12",
-    "mongoose-encryption": "^2.1.1",
+    "mongoose-encryption": "^2.1.2",
     "node": "^17.0.1",
     "nodemon": "^2.0.15"
   }
